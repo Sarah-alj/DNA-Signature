@@ -7,3 +7,4 @@ A Java application that will prompt the user to enter:
 -A PDF report on findings, the code, adn analysis.
 -DNA stats TXT file including the findings upon a randomized string input from user.
 -DNA sequence TXT file including lines of difference possible DNA sequences.
+-TXT file including JAVA code.
